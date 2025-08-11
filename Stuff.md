@@ -1,10 +1,11 @@
 Gamified Path:
 Tryhackme
-Pre-security to CyberSec101
+~~Pre-security to ~~CyberSec101
 
 Requirements or training path
-1. Tryhackme - Presecurity and CyberSec101
-2. OverTheWire - Bandit Completion Screen Shot
+1. Tryhackme - ~~Presecurity and~~ CyberSec101
+~~2. OverTheWire - Bandit Completion Screen Shot~~
+2. Portswigger Acad
 3. Split Decision
 - BugBounty - Portswigger Acad
 - CVE - TBD
